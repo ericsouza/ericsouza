@@ -5,8 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter, Java, Spring, Apache Kafka, and Microsservices**
 
-- 📚 I'm currently reading:
-- [Clean Architecture - Uncle Bob](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=sr_1_2?crid=V9VCDBS0XDW9&dchild=1&keywords=clean+architecture&qid=1598388839&sprefix=clean+arc%2Caps%2C260&sr=8-2) and [Production-Ready Microservices](https://www.amazon.com/Production-Ready-Microservices-Susan-Fowler/dp/1491965975)
+- 📚 I'm currently reading [Clean Architecture - Uncle Bob](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=sr_1_2?crid=V9VCDBS0XDW9&dchild=1&keywords=clean+architecture&qid=1598388839&sprefix=clean+arc%2Caps%2C260&sr=8-2) and [Production-Ready Microservices](https://www.amazon.com/Production-Ready-Microservices-Susan-Fowler/dp/1491965975)
 
 - 👨‍💻 All of my projects are available at [https://github.com/ericsouza?tab=repositories](https://github.com/ericsouza?tab=repositories)
 
