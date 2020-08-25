@@ -1,13 +1,13 @@
-<h1 align="center">Hi there<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Eric Souza</h1>
+<h1 align="center">Hello there<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Eric Souza</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
 
 - 🔭 I’m currently working on [**Itaú Unibanco**](https://www.itau.com.br/)
 
 - 🌱 I’m currently learning **Flutter, Java, Spring, Apache Kafka, and Microsservices**
 
-- 📚 I'm currently reading [Clean Architecture by Uncle Bob](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=sr_1_2?crid=V9VCDBS0XDW9&dchild=1&keywords=clean+architecture&qid=1598388839&sprefix=clean+arc%2Caps%2C260&sr=8-2) and [Production-Ready Microservices by Susan Fowler](https://www.amazon.com/Production-Ready-Microservices-Susan-Fowler/dp/1491965975)
+- 📹 I'm looking to make some videos about Python and Flask for YouTube.
 
-- 👨‍💻 All of my projects are available at [https://github.com/ericsouza?tab=repositories](https://github.com/ericsouza?tab=repositories)
+- 📚 I'm currently reading [Clean Architecture by Uncle Bob](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=sr_1_2?crid=V9VCDBS0XDW9&dchild=1&keywords=clean+architecture&qid=1598388839&sprefix=clean+arc%2Caps%2C260&sr=8-2) and [Production-Ready Microservices by Susan Fowler](https://www.amazon.com/Production-Ready-Microservices-Susan-Fowler/dp/1491965975)
 
 - 💬 Ask me about **Python and Flask**
 
@@ -28,6 +28,12 @@
 <a href="https://linkedin.com/in/eric-cardoso-souza" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="eric-cardoso-souza" height="30" width="30" /></a>
 </p>
 
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  <img align="left" alt="Eric's Github Stats" src="https://github-readme-stats.ericsouza.vercel.app/api?username=ericsouza&show_icons=true&hide_border=true" />
+
+</details>
 
 
 [youtube]: https://www.youtube.com/channel/UCivrXFPSHLYAvHu3-0vPX9Q
