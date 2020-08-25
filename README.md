@@ -14,7 +14,7 @@
 - 📫 How to reach me **ericsouza0801@gmail.com**
 
 ### Spotify Playing 🎧
-<img src="https://spotify-playing.ericsouza.vercel.app/api/spotify-playing" alt="Eric Souza Spotify Playing" width="350" />
+[![Spotify](https://spotify-playing.ericsouza.vercel.app/api/spotify)](https://open.spotify.com/user/ryseric)
 
 ### Connect with me:
 
