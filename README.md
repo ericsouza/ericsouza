@@ -34,10 +34,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#184](https://github.com//marshmallow-code/flask-smorest/issues/184) in [marshmallow-code/flask-smorest](https://github.com//marshmallow-code/flask-smorest)
-2. ❗️ Opened issue [#184](https://github.com//marshmallow-code/flask-smorest/issues/184) in [marshmallow-code/flask-smorest](https://github.com//marshmallow-code/flask-smorest)
-3. ❗️ Opened issue [#212](https://github.com//dusktreader/flask-praetorian/issues/212) in [dusktreader/flask-praetorian](https://github.com//dusktreader/flask-praetorian)
-4. 🗣 Commented on [#198](https://github.com//flask-dashboard/Flask-MonitoringDashboard/issues/198) in [flask-dashboard/Flask-MonitoringDashboard](https://github.com//flask-dashboard/Flask-MonitoringDashboard)
-5. ❗️ Closed issue [#29](https://github.com//SolarEdgeTech/pyctuator/issues/29) in [SolarEdgeTech/pyctuator](https://github.com//SolarEdgeTech/pyctuator)
+2. 🗣 Commented on [#184](https://github.com//marshmallow-code/flask-smorest/issues/184) in [marshmallow-code/flask-smorest](https://github.com//marshmallow-code/flask-smorest)
+3. ❗️ Opened issue [#184](https://github.com//marshmallow-code/flask-smorest/issues/184) in [marshmallow-code/flask-smorest](https://github.com//marshmallow-code/flask-smorest)
+4. ❗️ Opened issue [#212](https://github.com//dusktreader/flask-praetorian/issues/212) in [dusktreader/flask-praetorian](https://github.com//dusktreader/flask-praetorian)
+5. 🗣 Commented on [#198](https://github.com//flask-dashboard/Flask-MonitoringDashboard/issues/198) in [flask-dashboard/Flask-MonitoringDashboard](https://github.com//flask-dashboard/Flask-MonitoringDashboard)
 <!--END_SECTION:activity-->
 
 </details>
