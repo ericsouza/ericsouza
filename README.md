@@ -33,11 +33,11 @@
     <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com//ericsouza/flask-sketch/pull/1) in [ericsouza/flask-sketch](https://github.com//ericsouza/flask-sketch)
-2. 💪 Opened PR [#1](https://github.com//ericsouza/flask-sketch/pull/1) in [ericsouza/flask-sketch](https://github.com//ericsouza/flask-sketch)
-3. 🗣 Commented on [#184](https://github.com//marshmallow-code/flask-smorest/issues/184) in [marshmallow-code/flask-smorest](https://github.com//marshmallow-code/flask-smorest)
-4. 🗣 Commented on [#184](https://github.com//marshmallow-code/flask-smorest/issues/184) in [marshmallow-code/flask-smorest](https://github.com//marshmallow-code/flask-smorest)
-5. ❗️ Opened issue [#184](https://github.com//marshmallow-code/flask-smorest/issues/184) in [marshmallow-code/flask-smorest](https://github.com//marshmallow-code/flask-smorest)
+1. 🎉 Merged PR [#1](https://github.com/ericsouza/flask-sketch/pull/1) in [ericsouza/flask-sketch](https://github.com/ericsouza/flask-sketch)
+2. 💪 Opened PR [#1](https://github.com/ericsouza/flask-sketch/pull/1) in [ericsouza/flask-sketch](https://github.com/ericsouza/flask-sketch)
+3. 🗣 Commented on [#184](https://github.com/marshmallow-code/flask-smorest/issues/184) in [marshmallow-code/flask-smorest](https://github.com/marshmallow-code/flask-smorest)
+4. 🗣 Commented on [#184](https://github.com/marshmallow-code/flask-smorest/issues/184) in [marshmallow-code/flask-smorest](https://github.com/marshmallow-code/flask-smorest)
+5. ❗️ Opened issue [#184](https://github.com/marshmallow-code/flask-smorest/issues/184) in [marshmallow-code/flask-smorest](https://github.com/marshmallow-code/flask-smorest)
 <!--END_SECTION:activity-->
 
 </details>
