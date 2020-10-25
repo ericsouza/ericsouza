@@ -5,15 +5,13 @@
 
 - 🐍 I’m currently working on [**Flask Sketch**](https://github.com/ericsouza/flask-sketch), a CLI to generate boilerplate code for Flask applications 
 
-- 🌱 I’m currently learning **Flutter, Java, Spring, Apache Kafka, and Microsservices**
-
-- 📹 I'm looking to make some videos about Python and Flask for YouTube.
+- 🌱 I’m currently learning **Golang, Java, Spring, Apache Kafka, and Microsservices**
 
 - 📚 I'm currently reading [Clean Architecture by Uncle Bob](https://www.amazon.com/Robert-C-Martin/dp/0134494164/ref=sr_1_1?dchild=1&keywords=clean+architecture&qid=1598404061&sr=8-1) and [Production-Ready Microservices by Susan Fowler](https://www.amazon.com/Production-Ready-Microservices-Susan-Fowler/dp/1491965975)
 
 - 💬 Ask me about **Python and Flask**
 
-- 📫 How to reach me **ericsouza0801@gmail.com**
+- 📫 How to reach me: **ericsouza0801@gmail.com**
 
 ### Spotify Playing 🎧
 [![Spotify](https://spotify-playing.ericsouza.vercel.app/api/spotify)](https://open.spotify.com/user/ryseric)
