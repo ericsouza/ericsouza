@@ -1,7 +1,7 @@
 <h1 align="center">Hello there<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Eric Souza</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
 
-- 🔭 I work as a softwtware antigneer at [**Elo7**](https://www.elo7.com)
+- 🔭 I work as a software engineer at [**Elo7**](https://www.elo7.com)
 
 - 🐍 I’m currently working on [**Flask Sketch**](https://github.com/ericsouza/flask-sketch), a CLI to generate boilerplate code for Flask applications 
 
