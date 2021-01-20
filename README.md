@@ -5,7 +5,7 @@
 
 - 🐍 I’m currently working on [**Flask Sketch**](https://github.com/ericsouza/flask-sketch), a CLI to generate boilerplate code for Flask applications 
 
-- 🌱 I’m currently learning **Java, SpringBoot, Apache Kafka, and Microsservices**
+- 🌱 I’m currently learning **Scala, Functional Programming and Microsservices**
 
 - 📚 I'm currently reading [Clean Architecture by Uncle Bob](https://www.amazon.com/Robert-C-Martin/dp/0134494164/ref=sr_1_1?dchild=1&keywords=clean+architecture&qid=1598404061&sr=8-1) and [Production-Ready Microservices by Susan Fowler](https://www.amazon.com/Production-Ready-Microservices-Susan-Fowler/dp/1491965975)
 
