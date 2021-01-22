@@ -31,8 +31,8 @@
     <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/loiane/java-spring-extension-pack/issues/1) in [loiane/java-spring-extension-pack](https://github.com/loiane/java-spring-extension-pack)
-2. 🎉 Merged PR [#1](https://github.com/ericsouza/flask-sketch/pull/1) in [ericsouza/flask-sketch](https://github.com/ericsouza/flask-sketch)
+1. 💪 Opened PR [#2](https://github.com/guiromaoelo/projeto/pull/2) in [guiromaoelo/projeto](https://github.com/guiromaoelo/projeto)
+2. ❗️ Opened issue [#1](https://github.com/loiane/java-spring-extension-pack/issues/1) in [loiane/java-spring-extension-pack](https://github.com/loiane/java-spring-extension-pack)
 3. 💪 Opened PR [#1](https://github.com/ericsouza/flask-sketch/pull/1) in [ericsouza/flask-sketch](https://github.com/ericsouza/flask-sketch)
 4. 🗣 Commented on [#184](https://github.com/marshmallow-code/flask-smorest/issues/184) in [marshmallow-code/flask-smorest](https://github.com/marshmallow-code/flask-smorest)
 5. ❗️ Opened issue [#184](https://github.com/marshmallow-code/flask-smorest/issues/184) in [marshmallow-code/flask-smorest](https://github.com/marshmallow-code/flask-smorest)
