@@ -31,11 +31,11 @@
     <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/ericsouza/flask-sketch/issues/3) in [ericsouza/flask-sketch](https://github.com/ericsouza/flask-sketch)
-2. ❗️ Opened issue [#2](https://github.com/ericsouza/flask-sketch/issues/2) in [ericsouza/flask-sketch](https://github.com/ericsouza/flask-sketch)
-3. 💪 Opened PR [#14](https://github.com/guiromaoelo/projeto/pull/14) in [guiromaoelo/projeto](https://github.com/guiromaoelo/projeto)
-4. 💪 Opened PR [#9](https://github.com/guiromaoelo/projeto/pull/9) in [guiromaoelo/projeto](https://github.com/guiromaoelo/projeto)
-5. 💪 Opened PR [#2](https://github.com/guiromaoelo/projeto/pull/2) in [guiromaoelo/projeto](https://github.com/guiromaoelo/projeto)
+1. ❗️ Closed issue [#3](https://github.com/ericsouza/flask-sketch/issues/3) in [ericsouza/flask-sketch](https://github.com/ericsouza/flask-sketch)
+2. 🗣 Commented on [#3](https://github.com/ericsouza/flask-sketch/issues/3) in [ericsouza/flask-sketch](https://github.com/ericsouza/flask-sketch)
+3. ❗️ Opened issue [#3](https://github.com/ericsouza/flask-sketch/issues/3) in [ericsouza/flask-sketch](https://github.com/ericsouza/flask-sketch)
+4. ❗️ Opened issue [#2](https://github.com/ericsouza/flask-sketch/issues/2) in [ericsouza/flask-sketch](https://github.com/ericsouza/flask-sketch)
+5. 💪 Opened PR [#14](https://github.com/guiromaoelo/projeto/pull/14) in [guiromaoelo/projeto](https://github.com/guiromaoelo/projeto)
 <!--END_SECTION:activity-->
 
 </details>
