@@ -31,11 +31,11 @@
     <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1919](https://github.com/python-poetry/poetry/issues/1919) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
-2. ❗️ Opened issue [#4](https://github.com/ericsouza/flask-sketch/issues/4) in [ericsouza/flask-sketch](https://github.com/ericsouza/flask-sketch)
-3. ❗️ Closed issue [#3](https://github.com/ericsouza/flask-sketch/issues/3) in [ericsouza/flask-sketch](https://github.com/ericsouza/flask-sketch)
-4. 🗣 Commented on [#3](https://github.com/ericsouza/flask-sketch/issues/3) in [ericsouza/flask-sketch](https://github.com/ericsouza/flask-sketch)
-5. ❗️ Opened issue [#3](https://github.com/ericsouza/flask-sketch/issues/3) in [ericsouza/flask-sketch](https://github.com/ericsouza/flask-sketch)
+1. ❗️ Opened issue [#211](https://github.com/sloria/environs/issues/211) in [sloria/environs](https://github.com/sloria/environs)
+2. 🗣 Commented on [#1919](https://github.com/python-poetry/poetry/issues/1919) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
+3. ❗️ Opened issue [#4](https://github.com/ericsouza/flask-sketch/issues/4) in [ericsouza/flask-sketch](https://github.com/ericsouza/flask-sketch)
+4. ❗️ Closed issue [#3](https://github.com/ericsouza/flask-sketch/issues/3) in [ericsouza/flask-sketch](https://github.com/ericsouza/flask-sketch)
+5. 🗣 Commented on [#3](https://github.com/ericsouza/flask-sketch/issues/3) in [ericsouza/flask-sketch](https://github.com/ericsouza/flask-sketch)
 <!--END_SECTION:activity-->
 
 </details>
