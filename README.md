@@ -31,11 +31,11 @@
     <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2525](https://github.com/starship/starship/issues/2525) in [starship/starship](https://github.com/starship/starship)
-2. ❗️ Opened issue [#211](https://github.com/sloria/environs/issues/211) in [sloria/environs](https://github.com/sloria/environs)
-3. 🗣 Commented on [#1919](https://github.com/python-poetry/poetry/issues/1919) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
-4. ❗️ Opened issue [#4](https://github.com/ericsouza/flask-sketch/issues/4) in [ericsouza/flask-sketch](https://github.com/ericsouza/flask-sketch)
-5. ❗️ Closed issue [#3](https://github.com/ericsouza/flask-sketch/issues/3) in [ericsouza/flask-sketch](https://github.com/ericsouza/flask-sketch)
+1. 🗣 Commented on [#211](https://github.com/sloria/environs/issues/211) in [sloria/environs](https://github.com/sloria/environs)
+2. ❗️ Closed issue [#211](https://github.com/sloria/environs/issues/211) in [sloria/environs](https://github.com/sloria/environs)
+3. ❗️ Opened issue [#20](https://github.com/nickjj/flask-static-digest/issues/20) in [nickjj/flask-static-digest](https://github.com/nickjj/flask-static-digest)
+4. 🗣 Commented on [#2525](https://github.com/starship/starship/issues/2525) in [starship/starship](https://github.com/starship/starship)
+5. ❗️ Opened issue [#211](https://github.com/sloria/environs/issues/211) in [sloria/environs](https://github.com/sloria/environs)
 <!--END_SECTION:activity-->
 
 </details>
