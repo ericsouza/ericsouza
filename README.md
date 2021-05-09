@@ -32,10 +32,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#20](https://github.com/nickjj/flask-static-digest/issues/20) in [nickjj/flask-static-digest](https://github.com/nickjj/flask-static-digest)
-2. 🗣 Commented on [#211](https://github.com/sloria/environs/issues/211) in [sloria/environs](https://github.com/sloria/environs)
-3. ❗️ Closed issue [#211](https://github.com/sloria/environs/issues/211) in [sloria/environs](https://github.com/sloria/environs)
-4. ❗️ Opened issue [#20](https://github.com/nickjj/flask-static-digest/issues/20) in [nickjj/flask-static-digest](https://github.com/nickjj/flask-static-digest)
-5. 🗣 Commented on [#2525](https://github.com/starship/starship/issues/2525) in [starship/starship](https://github.com/starship/starship)
+2. 🗣 Commented on [#20](https://github.com/nickjj/flask-static-digest/issues/20) in [nickjj/flask-static-digest](https://github.com/nickjj/flask-static-digest)
+3. 🗣 Commented on [#211](https://github.com/sloria/environs/issues/211) in [sloria/environs](https://github.com/sloria/environs)
+4. ❗️ Closed issue [#211](https://github.com/sloria/environs/issues/211) in [sloria/environs](https://github.com/sloria/environs)
+5. ❗️ Opened issue [#20](https://github.com/nickjj/flask-static-digest/issues/20) in [nickjj/flask-static-digest](https://github.com/nickjj/flask-static-digest)
 <!--END_SECTION:activity-->
 
 </details>
