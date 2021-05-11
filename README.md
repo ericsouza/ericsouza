@@ -31,11 +31,11 @@
     <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20](https://github.com/nickjj/flask-static-digest/issues/20) in [nickjj/flask-static-digest](https://github.com/nickjj/flask-static-digest)
+1. ❗️ Closed issue [#20](https://github.com/nickjj/flask-static-digest/issues/20) in [nickjj/flask-static-digest](https://github.com/nickjj/flask-static-digest)
 2. 🗣 Commented on [#20](https://github.com/nickjj/flask-static-digest/issues/20) in [nickjj/flask-static-digest](https://github.com/nickjj/flask-static-digest)
-3. 🗣 Commented on [#211](https://github.com/sloria/environs/issues/211) in [sloria/environs](https://github.com/sloria/environs)
-4. ❗️ Closed issue [#211](https://github.com/sloria/environs/issues/211) in [sloria/environs](https://github.com/sloria/environs)
-5. ❗️ Opened issue [#20](https://github.com/nickjj/flask-static-digest/issues/20) in [nickjj/flask-static-digest](https://github.com/nickjj/flask-static-digest)
+3. 🗣 Commented on [#20](https://github.com/nickjj/flask-static-digest/issues/20) in [nickjj/flask-static-digest](https://github.com/nickjj/flask-static-digest)
+4. 🗣 Commented on [#20](https://github.com/nickjj/flask-static-digest/issues/20) in [nickjj/flask-static-digest](https://github.com/nickjj/flask-static-digest)
+5. 🗣 Commented on [#211](https://github.com/sloria/environs/issues/211) in [sloria/environs](https://github.com/sloria/environs)
 <!--END_SECTION:activity-->
 
 </details>
