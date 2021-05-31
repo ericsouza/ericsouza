@@ -31,10 +31,10 @@
     <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#23](https://github.com/miguelgrinberg/APIFairy/issues/23) in [miguelgrinberg/APIFairy](https://github.com/miguelgrinberg/APIFairy)
-2. ❗️ Closed issue [#20](https://github.com/nickjj/flask-static-digest/issues/20) in [nickjj/flask-static-digest](https://github.com/nickjj/flask-static-digest)
-3. 🗣 Commented on [#20](https://github.com/nickjj/flask-static-digest/issues/20) in [nickjj/flask-static-digest](https://github.com/nickjj/flask-static-digest)
-4. 🗣 Commented on [#20](https://github.com/nickjj/flask-static-digest/issues/20) in [nickjj/flask-static-digest](https://github.com/nickjj/flask-static-digest)
+1. 🗣 Commented on [#23](https://github.com/miguelgrinberg/APIFairy/issues/23) in [miguelgrinberg/APIFairy](https://github.com/miguelgrinberg/APIFairy)
+2. ❗️ Closed issue [#23](https://github.com/miguelgrinberg/APIFairy/issues/23) in [miguelgrinberg/APIFairy](https://github.com/miguelgrinberg/APIFairy)
+3. ❗️ Opened issue [#23](https://github.com/miguelgrinberg/APIFairy/issues/23) in [miguelgrinberg/APIFairy](https://github.com/miguelgrinberg/APIFairy)
+4. ❗️ Closed issue [#20](https://github.com/nickjj/flask-static-digest/issues/20) in [nickjj/flask-static-digest](https://github.com/nickjj/flask-static-digest)
 5. 🗣 Commented on [#20](https://github.com/nickjj/flask-static-digest/issues/20) in [nickjj/flask-static-digest](https://github.com/nickjj/flask-static-digest)
 <!--END_SECTION:activity-->
 
