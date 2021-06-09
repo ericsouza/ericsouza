@@ -31,11 +31,11 @@
     <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1295](https://github.com/Netflix/dispatch/issues/1295) in [Netflix/dispatch](https://github.com/Netflix/dispatch)
-2. 🗣 Commented on [#23](https://github.com/miguelgrinberg/APIFairy/issues/23) in [miguelgrinberg/APIFairy](https://github.com/miguelgrinberg/APIFairy)
-3. ❗️ Closed issue [#23](https://github.com/miguelgrinberg/APIFairy/issues/23) in [miguelgrinberg/APIFairy](https://github.com/miguelgrinberg/APIFairy)
-4. ❗️ Opened issue [#23](https://github.com/miguelgrinberg/APIFairy/issues/23) in [miguelgrinberg/APIFairy](https://github.com/miguelgrinberg/APIFairy)
-5. ❗️ Closed issue [#20](https://github.com/nickjj/flask-static-digest/issues/20) in [nickjj/flask-static-digest](https://github.com/nickjj/flask-static-digest)
+1. 🗣 Commented on [#12](https://github.com/tortoise/orm-benchmarks/issues/12) in [tortoise/orm-benchmarks](https://github.com/tortoise/orm-benchmarks)
+2. ❗️ Opened issue [#1295](https://github.com/Netflix/dispatch/issues/1295) in [Netflix/dispatch](https://github.com/Netflix/dispatch)
+3. 🗣 Commented on [#23](https://github.com/miguelgrinberg/APIFairy/issues/23) in [miguelgrinberg/APIFairy](https://github.com/miguelgrinberg/APIFairy)
+4. ❗️ Closed issue [#23](https://github.com/miguelgrinberg/APIFairy/issues/23) in [miguelgrinberg/APIFairy](https://github.com/miguelgrinberg/APIFairy)
+5. ❗️ Opened issue [#23](https://github.com/miguelgrinberg/APIFairy/issues/23) in [miguelgrinberg/APIFairy](https://github.com/miguelgrinberg/APIFairy)
 <!--END_SECTION:activity-->
 
 </details>
