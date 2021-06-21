@@ -31,11 +31,11 @@
     <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#18020](https://github.com/quarkusio/quarkus/issues/18020) in [quarkusio/quarkus](https://github.com/quarkusio/quarkus)
-2. 🗣 Commented on [#12](https://github.com/tortoise/orm-benchmarks/issues/12) in [tortoise/orm-benchmarks](https://github.com/tortoise/orm-benchmarks)
-3. ❗️ Opened issue [#1295](https://github.com/Netflix/dispatch/issues/1295) in [Netflix/dispatch](https://github.com/Netflix/dispatch)
-4. 🗣 Commented on [#23](https://github.com/miguelgrinberg/APIFairy/issues/23) in [miguelgrinberg/APIFairy](https://github.com/miguelgrinberg/APIFairy)
-5. ❗️ Closed issue [#23](https://github.com/miguelgrinberg/APIFairy/issues/23) in [miguelgrinberg/APIFairy](https://github.com/miguelgrinberg/APIFairy)
+1. ❗️ Opened issue [#1060](https://github.com/micronaut-projects/micronaut-data/issues/1060) in [micronaut-projects/micronaut-data](https://github.com/micronaut-projects/micronaut-data)
+2. ❗️ Opened issue [#18020](https://github.com/quarkusio/quarkus/issues/18020) in [quarkusio/quarkus](https://github.com/quarkusio/quarkus)
+3. 🗣 Commented on [#12](https://github.com/tortoise/orm-benchmarks/issues/12) in [tortoise/orm-benchmarks](https://github.com/tortoise/orm-benchmarks)
+4. ❗️ Opened issue [#1295](https://github.com/Netflix/dispatch/issues/1295) in [Netflix/dispatch](https://github.com/Netflix/dispatch)
+5. 🗣 Commented on [#23](https://github.com/miguelgrinberg/APIFairy/issues/23) in [miguelgrinberg/APIFairy](https://github.com/miguelgrinberg/APIFairy)
 <!--END_SECTION:activity-->
 
 </details>
