@@ -31,11 +31,11 @@
     <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#7](https://github.com/ovh/python-logging-gelf/issues/7) in [ovh/python-logging-gelf](https://github.com/ovh/python-logging-gelf)
-2. ❗️ Opened issue [#132](https://github.com/severb/graypy/issues/132) in [severb/graypy](https://github.com/severb/graypy)
-3. ❗️ Opened issue [#1836](https://github.com/marshmallow-code/marshmallow/issues/1836) in [marshmallow-code/marshmallow](https://github.com/marshmallow-code/marshmallow)
-4. 🗣 Commented on [#18020](https://github.com/quarkusio/quarkus/issues/18020) in [quarkusio/quarkus](https://github.com/quarkusio/quarkus)
-5. ❗️ Opened issue [#1060](https://github.com/micronaut-projects/micronaut-data/issues/1060) in [micronaut-projects/micronaut-data](https://github.com/micronaut-projects/micronaut-data)
+1. 🗣 Commented on [#1060](https://github.com/micronaut-projects/micronaut-data/issues/1060) in [micronaut-projects/micronaut-data](https://github.com/micronaut-projects/micronaut-data)
+2. ❗️ Opened issue [#7](https://github.com/ovh/python-logging-gelf/issues/7) in [ovh/python-logging-gelf](https://github.com/ovh/python-logging-gelf)
+3. ❗️ Opened issue [#132](https://github.com/severb/graypy/issues/132) in [severb/graypy](https://github.com/severb/graypy)
+4. ❗️ Opened issue [#1836](https://github.com/marshmallow-code/marshmallow/issues/1836) in [marshmallow-code/marshmallow](https://github.com/marshmallow-code/marshmallow)
+5. 🗣 Commented on [#18020](https://github.com/quarkusio/quarkus/issues/18020) in [quarkusio/quarkus](https://github.com/quarkusio/quarkus)
 <!--END_SECTION:activity-->
 
 </details>
