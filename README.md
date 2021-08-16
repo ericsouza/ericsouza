@@ -1,15 +1,13 @@
 <h1 align="center">Hello there<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Eric Souza</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
 
-- 🔭 I work as a software engineer at [**Elo7**](https://www.elo7.com)
+- 🔭 I work as a software engineer at [**Elo7**](https://www.elo7.com) with Python, Flask, Java, Spring Boot, Kubernetes, Helm, Docker, AWS and many other stuffs
 
-- 🐍 I’m currently working on [**Flask Sketch**](https://github.com/ericsouza/flask-sketch), a CLI to generate boilerplate code for Flask applications 
+- 🌱 I’m currently learning **Kotlin, Microsservices**
 
-- 🌱 I’m currently learning **Kotlin, Helm, Kubernetes, Microsservices**
+- 📚 I'm currently reading [Domain-Driven Design by Eric Evans](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/)
 
-- 📚 I'm currently reading [Clean Architecture by Uncle Bob](https://www.amazon.com/Robert-C-Martin/dp/0134494164/ref=sr_1_1?dchild=1&keywords=clean+architecture&qid=1598404061&sr=8-1) and [Production-Ready Microservices by Susan Fowler](https://www.amazon.com/Production-Ready-Microservices-Susan-Fowler/dp/1491965975)
-
-- 💬 Ask me about **Python and Flask**
+- 💬 Ask me about **Python, Flask, Java and Spring Boot**
 
 - 📫 How to reach me: **ericsouza0801@gmail.com**
 
