@@ -29,11 +29,11 @@
     <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#180](https://github.com/faust-streaming/faust/issues/180) in [faust-streaming/faust](https://github.com/faust-streaming/faust)
-2. ❗️ Closed issue [#1853](https://github.com/marshmallow-code/marshmallow/issues/1853) in [marshmallow-code/marshmallow](https://github.com/marshmallow-code/marshmallow)
-3. 🗣 Commented on [#1853](https://github.com/marshmallow-code/marshmallow/issues/1853) in [marshmallow-code/marshmallow](https://github.com/marshmallow-code/marshmallow)
-4. ❗️ Opened issue [#1853](https://github.com/marshmallow-code/marshmallow/issues/1853) in [marshmallow-code/marshmallow](https://github.com/marshmallow-code/marshmallow)
-5. ❗️ Opened issue [#20](https://github.com/joaodrp/gelf-formatter/issues/20) in [joaodrp/gelf-formatter](https://github.com/joaodrp/gelf-formatter)
+1. 🗣 Commented on [#180](https://github.com/faust-streaming/faust/issues/180) in [faust-streaming/faust](https://github.com/faust-streaming/faust)
+2. ❗️ Closed issue [#180](https://github.com/faust-streaming/faust/issues/180) in [faust-streaming/faust](https://github.com/faust-streaming/faust)
+3. ❗️ Opened issue [#180](https://github.com/faust-streaming/faust/issues/180) in [faust-streaming/faust](https://github.com/faust-streaming/faust)
+4. ❗️ Closed issue [#1853](https://github.com/marshmallow-code/marshmallow/issues/1853) in [marshmallow-code/marshmallow](https://github.com/marshmallow-code/marshmallow)
+5. 🗣 Commented on [#1853](https://github.com/marshmallow-code/marshmallow/issues/1853) in [marshmallow-code/marshmallow](https://github.com/marshmallow-code/marshmallow)
 <!--END_SECTION:activity-->
 
 </details>
