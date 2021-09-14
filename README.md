@@ -29,11 +29,11 @@
     <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1405](https://github.com/smallrye/smallrye-reactive-messaging/issues/1405) in [smallrye/smallrye-reactive-messaging](https://github.com/smallrye/smallrye-reactive-messaging)
-2. ❗️ Opened issue [#1405](https://github.com/smallrye/smallrye-reactive-messaging/issues/1405) in [smallrye/smallrye-reactive-messaging](https://github.com/smallrye/smallrye-reactive-messaging)
-3. ❗️ Opened issue [#8](https://github.com/maki-nage/makinage/issues/8) in [maki-nage/makinage](https://github.com/maki-nage/makinage)
-4. ❗️ Opened issue [#2](https://github.com/seb-angel/FuelSDK-Python-Wrapper/issues/2) in [seb-angel/FuelSDK-Python-Wrapper](https://github.com/seb-angel/FuelSDK-Python-Wrapper)
-5. 🗣 Commented on [#180](https://github.com/faust-streaming/faust/issues/180) in [faust-streaming/faust](https://github.com/faust-streaming/faust)
+1. ❗️ Closed issue [#1405](https://github.com/smallrye/smallrye-reactive-messaging/issues/1405) in [smallrye/smallrye-reactive-messaging](https://github.com/smallrye/smallrye-reactive-messaging)
+2. 🗣 Commented on [#1405](https://github.com/smallrye/smallrye-reactive-messaging/issues/1405) in [smallrye/smallrye-reactive-messaging](https://github.com/smallrye/smallrye-reactive-messaging)
+3. 🗣 Commented on [#1405](https://github.com/smallrye/smallrye-reactive-messaging/issues/1405) in [smallrye/smallrye-reactive-messaging](https://github.com/smallrye/smallrye-reactive-messaging)
+4. ❗️ Opened issue [#1405](https://github.com/smallrye/smallrye-reactive-messaging/issues/1405) in [smallrye/smallrye-reactive-messaging](https://github.com/smallrye/smallrye-reactive-messaging)
+5. ❗️ Opened issue [#8](https://github.com/maki-nage/makinage/issues/8) in [maki-nage/makinage](https://github.com/maki-nage/makinage)
 <!--END_SECTION:activity-->
 
 </details>
