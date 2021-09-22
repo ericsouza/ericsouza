@@ -22,7 +22,7 @@
 <br />
 
 ### Languages and Tools:
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/java.svg" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericsouza&theme=radical&hide=PlpgSQL,tsql,css,jupyter%20notebook,html)
 
 ---
 <details>
