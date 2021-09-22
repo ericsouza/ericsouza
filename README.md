@@ -20,6 +20,7 @@
 [<img align="left" alt="Eric Souza LinkedIn Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
+<br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericsouza&theme=radical&hide=PlpgSQL,tsql,css,jupyter%20notebook,html)
 
