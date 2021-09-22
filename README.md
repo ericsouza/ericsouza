@@ -21,7 +21,6 @@
 
 <br />
 
-### Languages and Tools:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericsouza&theme=radical&hide=PlpgSQL,tsql,css,jupyter%20notebook,html)
 
 ---
