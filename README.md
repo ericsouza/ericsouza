@@ -29,11 +29,11 @@
     <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2350](https://github.com/unbit/uwsgi/issues/2350) in [unbit/uwsgi](https://github.com/unbit/uwsgi)
-2. 🗣 Commented on [#69](https://github.com/fastapi-admin/fastapi-admin/issues/69) in [fastapi-admin/fastapi-admin](https://github.com/fastapi-admin/fastapi-admin)
-3. ❗️ Closed issue [#8](https://github.com/maki-nage/makinage/issues/8) in [maki-nage/makinage](https://github.com/maki-nage/makinage)
-4. 🗣 Commented on [#8](https://github.com/maki-nage/makinage/issues/8) in [maki-nage/makinage](https://github.com/maki-nage/makinage)
-5. ❗️ Closed issue [#1405](https://github.com/smallrye/smallrye-reactive-messaging/issues/1405) in [smallrye/smallrye-reactive-messaging](https://github.com/smallrye/smallrye-reactive-messaging)
+1. ❗️ Opened issue [#2054](https://github.com/confluentinc/schema-registry/issues/2054) in [confluentinc/schema-registry](https://github.com/confluentinc/schema-registry)
+2. 🗣 Commented on [#2350](https://github.com/unbit/uwsgi/issues/2350) in [unbit/uwsgi](https://github.com/unbit/uwsgi)
+3. 🗣 Commented on [#69](https://github.com/fastapi-admin/fastapi-admin/issues/69) in [fastapi-admin/fastapi-admin](https://github.com/fastapi-admin/fastapi-admin)
+4. ❗️ Closed issue [#8](https://github.com/maki-nage/makinage/issues/8) in [maki-nage/makinage](https://github.com/maki-nage/makinage)
+5. 🗣 Commented on [#8](https://github.com/maki-nage/makinage/issues/8) in [maki-nage/makinage](https://github.com/maki-nage/makinage)
 <!--END_SECTION:activity-->
 
 </details>
