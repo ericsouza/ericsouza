@@ -29,11 +29,11 @@
     <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#25](https://github.com/long2ice/asyncmy/issues/25) in [long2ice/asyncmy](https://github.com/long2ice/asyncmy)
-2. ❗️ Opened issue [#2054](https://github.com/confluentinc/schema-registry/issues/2054) in [confluentinc/schema-registry](https://github.com/confluentinc/schema-registry)
-3. 🗣 Commented on [#2350](https://github.com/unbit/uwsgi/issues/2350) in [unbit/uwsgi](https://github.com/unbit/uwsgi)
-4. 🗣 Commented on [#69](https://github.com/fastapi-admin/fastapi-admin/issues/69) in [fastapi-admin/fastapi-admin](https://github.com/fastapi-admin/fastapi-admin)
-5. ❗️ Closed issue [#8](https://github.com/maki-nage/makinage/issues/8) in [maki-nage/makinage](https://github.com/maki-nage/makinage)
+1. 🎉 Merged PR [#1](https://github.com/ericsouza/ufabc-csm/pull/1) in [ericsouza/ufabc-csm](https://github.com/ericsouza/ufabc-csm)
+2. 💪 Opened PR [#1](https://github.com/ericsouza/ufabc-csm/pull/1) in [ericsouza/ufabc-csm](https://github.com/ericsouza/ufabc-csm)
+3. ❗️ Opened issue [#25](https://github.com/long2ice/asyncmy/issues/25) in [long2ice/asyncmy](https://github.com/long2ice/asyncmy)
+4. ❗️ Opened issue [#2054](https://github.com/confluentinc/schema-registry/issues/2054) in [confluentinc/schema-registry](https://github.com/confluentinc/schema-registry)
+5. 🗣 Commented on [#2350](https://github.com/unbit/uwsgi/issues/2350) in [unbit/uwsgi](https://github.com/unbit/uwsgi)
 <!--END_SECTION:activity-->
 
 </details>
