@@ -29,11 +29,11 @@
     <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/ericsouza/ufabc-csm/pull/1) in [ericsouza/ufabc-csm](https://github.com/ericsouza/ufabc-csm)
-2. 💪 Opened PR [#1](https://github.com/ericsouza/ufabc-csm/pull/1) in [ericsouza/ufabc-csm](https://github.com/ericsouza/ufabc-csm)
-3. ❗️ Opened issue [#25](https://github.com/long2ice/asyncmy/issues/25) in [long2ice/asyncmy](https://github.com/long2ice/asyncmy)
-4. ❗️ Opened issue [#2054](https://github.com/confluentinc/schema-registry/issues/2054) in [confluentinc/schema-registry](https://github.com/confluentinc/schema-registry)
-5. 🗣 Commented on [#2350](https://github.com/unbit/uwsgi/issues/2350) in [unbit/uwsgi](https://github.com/unbit/uwsgi)
+1. 🗣 Commented on [#20](https://github.com/nickjj/flask-static-digest/issues/20) in [nickjj/flask-static-digest](https://github.com/nickjj/flask-static-digest)
+2. 🎉 Merged PR [#1](https://github.com/ericsouza/ufabc-csm/pull/1) in [ericsouza/ufabc-csm](https://github.com/ericsouza/ufabc-csm)
+3. 💪 Opened PR [#1](https://github.com/ericsouza/ufabc-csm/pull/1) in [ericsouza/ufabc-csm](https://github.com/ericsouza/ufabc-csm)
+4. ❗️ Opened issue [#25](https://github.com/long2ice/asyncmy/issues/25) in [long2ice/asyncmy](https://github.com/long2ice/asyncmy)
+5. ❗️ Opened issue [#2054](https://github.com/confluentinc/schema-registry/issues/2054) in [confluentinc/schema-registry](https://github.com/confluentinc/schema-registry)
 <!--END_SECTION:activity-->
 
 </details>
