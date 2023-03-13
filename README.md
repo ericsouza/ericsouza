@@ -1,9 +1,9 @@
 <h1 align="center">Hello there<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Eric Souza</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
 
-- 🔭 I work as a software engineer at [**Elo7**](https://www.elo7.com) with Python, Flask, Java, Spring Boot, Kubernetes, Helm, Docker, AWS and many other stuffs
+- 🔭 I work as a software engineer at [**Elo7**](https://www.elo7.com) with Java, Hibernate, Spring, Python, Flask, SQLAlchemy, FastAPI, Kubernetes, Helm, Docker, AWS and many other stuffs
 
-- 🌱 I’m currently learning **Kotlin, Microsservices**
+- 🌱 I’m currently learning **Kafka**
 
 - 📚 I'm currently reading [Domain-Driven Design by Eric Evans](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/)
 
