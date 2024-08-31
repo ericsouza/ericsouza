@@ -1,7 +1,7 @@
 <h1 align="center">Hello there<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Eric Souza</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
 
-- 🔭 I work as a software engineer at [**Elo7**](https://www.elo7.com/) a company from [**Enjoei Group**](https://www.enjoei.com/) with Java, Hibernate, Spring, Quarkus, Mutiny, Kafka, Python, Flask, SQLAlchemy, FastAPI, Kubernetes, Helm, Docker, AWS and many other stuffs
+- 🔭 I'm a software engineer at [**Elo7**](https://www.elo7.com/), a company from [**Enjoei Group**](https://www.enjoei.com/). Mainly working with Java, Hibernate, Spring, Quarkus, Mutiny, Kafka, Python, Flask, SQLAlchemy, FastAPI, Kubernetes, Helm, Docker, AWS and others.
 
 - 🌱 I’m currently learning **Reactive Programming**
 
