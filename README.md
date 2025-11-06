@@ -1,9 +1,7 @@
 <h1 align="center">Hello there<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Eric Souza</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
 
-- 🔭 I'm a software engineer at [**Elo7**](https://www.elo7.com/), a company from [**Enjoei Group**](https://www.enjoei.com/). Mainly working with Java, Hibernate, Spring, Quarkus, Mutiny, Kafka, Python, Flask, SQLAlchemy, FastAPI, Kubernetes, Helm, Docker, AWS and others.
-
-- 🌱 I’m currently learning **Reactive Programming**
+- 🔭 I'm a software engineer at [**Racquetmind**](https://racquetmind.ai/). Mainly working with back-end and embedded linux.
 
 - 📚 I'm currently reading [Staff Engineer: Leadership beyond the management track](https://www.amazon.com/Staff-Engineer-Leadership-beyond-management-ebook/dp/B08RMSHYGG)
 
@@ -13,7 +11,6 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Eric Souza YouTube Channel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Eric Souza LinkedIn Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
